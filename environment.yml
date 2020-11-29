@@ -1,0 +1,13 @@
+name: wavewatch
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - jupyter
+  - numpy
+  - python=3
+  - pandas
+  - netcdf4
+  - basemap
+  - pygrib
+prefix: /Users/daviderickson/anaconda3/envs/wavewatch
